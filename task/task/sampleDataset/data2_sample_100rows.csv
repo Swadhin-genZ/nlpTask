@@ -1,0 +1,202 @@
+id,prompt,content,type,source,label,topic,word_count,char_count,ai_model,language,complexity_score,is_multiline_code
+1,Write a string manipulation solution in python,"def string_manipulation():
+    # TODO: implement string manipulation
+    return None",code,blog,human,string manipulation,9,84,,python,3,True
+2,Explain health in simple terms,Experts recommend focusing on health to improve overall outcomes. health has become increasingly important in today's world. Recent studies show that health can have significant impact on society. (AI-generated),text,generated,ai,health,29,211,Claude,en,3,False
+3,Summarize recent developments in finance,The development of finance technologies has accelerated over the past decade. Experts recommend focusing on finance to improve overall outcomes. Experts recommend focusing on finance to improve overall outcomes. Understanding finance is crucial for professionals in this field. Experts recommend focusing on finance to improve overall outcomes. finance has become increasingly important in today's world. (AI-generated),text,generated,ai,finance,56,419,GPT-4,en,5,False
+4,Summarize recent developments in finance,Recent studies show that finance can have significant impact on society. Recent studies show that finance can have significant impact on society. finance has become increasingly important in today's world. The development of finance technologies has accelerated over the past decade. (AI-generated),text,generated,ai,finance,42,298,Claude,en,10,False
+5,Provide a graph traversal algorithm in cpp,"vector<int> arr; // graph traversal example
+for(int i=0;i<10;i++) arr.push_back(i); # AI-generated",code,generated,ai,graph traversal,11,98,Gemini,cpp,10,True
+6,Write a story about politics,politics has become increasingly important in today's world. Experts recommend focusing on politics to improve overall outcomes. The development of politics technologies has accelerated over the past decade. The development of politics technologies has accelerated over the past decade. Experts recommend focusing on politics to improve overall outcomes.,text,news,human,politics,48,354,,en,9,False
+7,Write a graph traversal solution in python,arr = [i for i in range(10)] # graph traversal example,code,news,human,graph traversal,11,54,,python,8,False
+8,Write a story about tech,Recent studies show that tech can have significant impact on society. Recent studies show that tech can have significant impact on society. The development of tech technologies has accelerated over the past decade. Understanding tech is crucial for professionals in this field. The development of tech technologies has accelerated over the past decade.,text,news,human,tech,53,352,,en,5,False
+9,Summarize recent developments in politics,Experts recommend focusing on politics to improve overall outcomes. Recent studies show that politics can have significant impact on society. Understanding politics is crucial for professionals in this field. The development of politics technologies has accelerated over the past decade. Experts recommend focusing on politics to improve overall outcomes. (AI-generated),text,generated,ai,politics,50,370,Gemini,en,8,False
+10,Provide a graph traversal algorithm in java,"public class graph_traversal {
+    public static void main(String[] args) {
+        // implement graph traversal
+    }
+} # AI-generated",code,generated,ai,graph traversal,18,135,Claude,java,10,True
+11,Write a news article about health,Recent studies show that health can have significant impact on society. Experts recommend focusing on health to improve overall outcomes. Understanding health is crucial for professionals in this field. Recent studies show that health can have significant impact on society. health has become increasingly important in today's world. The development of health technologies has accelerated over the past decade. (AI-generated),text,generated,ai,health,60,425,Gemini,en,8,False
+12,Write a graph traversal solution in java,"public class graph_traversal {
+    public static void main(String[] args) {
+        // implement graph traversal
+    }
+}",code,github,human,graph traversal,16,120,,java,1,True
+13,Implement sorting algorithm in cpp,"vector<int> arr; // sorting algorithm example
+for(int i=0;i<10;i++) arr.push_back(i); # AI-generated",code,generated,ai,sorting algorithm,11,100,Claude,cpp,7,True
+14,Solve a string manipulation problem using cpp,"int string_manipulation() {
+    // TODO: implement string manipulation
+    return 0;
+} # AI-generated",code,generated,ai,string manipulation,13,101,Claude,cpp,4,True
+15,Provide a dynamic programming algorithm in cpp,"int dynamic_programming() {
+    // TODO: implement dynamic programming
+    return 0;
+}",code,github,human,dynamic programming,11,86,,cpp,3,True
+16,Write a dynamic programming solution in python,"def dynamic_programming():
+    # TODO: implement dynamic programming
+    return None",code,news,human,dynamic programming,9,84,,python,3,True
+17,Write a blog post discussing health,Experts recommend focusing on health to improve overall outcomes. Understanding health is crucial for professionals in this field. Understanding health is crucial for professionals in this field. Recent studies show that health can have significant impact on society.,text,news,human,health,38,267,,en,4,False
+18,Provide a sorting algorithm algorithm in cpp,"vector<int> arr; // sorting algorithm example
+for(int i=0;i<10;i++) arr.push_back(i);",code,github,human,sorting algorithm,9,85,,cpp,9,True
+19,Write a string manipulation solution in java,"public class string_manipulation {
+    public static void main(String[] args) {
+        // implement string manipulation
+    }
+}",code,blog,human,string manipulation,16,128,,java,8,True
+20,Explain finance in simple terms,Recent studies show that finance can have significant impact on society. Recent studies show that finance can have significant impact on society. finance has become increasingly important in today's world. The development of finance technologies has accelerated over the past decade. finance has become increasingly important in today's world. The development of finance technologies has accelerated over the past decade. (AI-generated),text,generated,ai,finance,61,436,Gemini,en,9,False
+21,Write a news article about sports,sports has become increasingly important in today's world. Recent studies show that sports can have significant impact on society. The development of sports technologies has accelerated over the past decade. Understanding sports is crucial for professionals in this field. Experts recommend focusing on sports to improve overall outcomes. (AI-generated),text,generated,ai,sports,49,353,Claude,en,2,False
+22,Write a blog post discussing finance,finance has become increasingly important in today's world. Experts recommend focusing on finance to improve overall outcomes. Experts recommend focusing on finance to improve overall outcomes. Experts recommend focusing on finance to improve overall outcomes.,text,news,human,finance,35,260,,en,5,False
+23,Implement graph traversal in python,"def graph_traversal():
+    # TODO: implement graph traversal
+    return None",code,github,human,graph traversal,9,76,,python,4,True
+24,Explain education in simple terms,Experts recommend focusing on education to improve overall outcomes. Recent studies show that education can have significant impact on society. Experts recommend focusing on education to improve overall outcomes. (AI-generated),text,generated,ai,education,30,227,Claude,en,6,False
+25,Write a blog post discussing tech,Understanding tech is crucial for professionals in this field. tech has become increasingly important in today's world. tech has become increasingly important in today's world. The development of tech technologies has accelerated over the past decade. The development of tech technologies has accelerated over the past decade. (AI-generated),text,generated,ai,tech,48,341,GPT-4,en,6,False
+26,Implement string manipulation in cpp,"int string_manipulation() {
+    // TODO: implement string manipulation
+    return 0;
+}",code,news,human,string manipulation,11,86,,cpp,3,True
+27,Solve a dynamic programming problem using java,"public class dynamic_programming {
+    public static void main(String[] args) {
+        // implement dynamic programming
+    }
+}",code,news,human,dynamic programming,16,128,,java,4,True
+28,Implement string manipulation in cpp,"vector<int> arr; // string manipulation example
+for(int i=0;i<10;i++) arr.push_back(i);",code,github,human,string manipulation,9,87,,cpp,8,True
+29,Write a story about sports,The development of sports technologies has accelerated over the past decade. Recent studies show that sports can have significant impact on society. The development of sports technologies has accelerated over the past decade. Experts recommend focusing on sports to improve overall outcomes. The development of sports technologies has accelerated over the past decade. (AI-generated),text,generated,ai,sports,54,383,Claude,en,2,False
+30,Provide a sorting algorithm algorithm in java,"public class sorting_algorithm {
+    public static void main(String[] args) {
+        // implement sorting algorithm
+    }
+} # AI-generated",code,generated,ai,sorting algorithm,18,139,Claude,java,3,True
+31,Solve a string manipulation problem using python,"def string_manipulation():
+    # TODO: implement string manipulation
+    return None # AI-generated",code,generated,ai,string manipulation,11,99,GPT-4,python,2,True
+32,Provide a binary search algorithm in python,arr = [i for i in range(10)] # binary search example # AI-generated,code,generated,ai,binary search,13,67,Claude,python,9,False
+33,Write a news article about politics,politics has become increasingly important in today's world. Experts recommend focusing on politics to improve overall outcomes. Understanding politics is crucial for professionals in this field. The development of politics technologies has accelerated over the past decade. politics has become increasingly important in today's world. Recent studies show that politics can have significant impact on society.,text,news,human,politics,56,409,,en,8,False
+34,Implement string manipulation in cpp,"int string_manipulation() {
+    // TODO: implement string manipulation
+    return 0;
+}",code,blog,human,string manipulation,11,86,,cpp,9,True
+35,Write a news article about health,The development of health technologies has accelerated over the past decade. Experts recommend focusing on health to improve overall outcomes. health has become increasingly important in today's world. (AI-generated),text,generated,ai,health,29,216,GPT-4,en,8,False
+36,Solve a binary search problem using python,arr = [i for i in range(10)] # binary search example # AI-generated,code,generated,ai,binary search,13,67,Claude,python,1,False
+37,Implement string manipulation in python,arr = [i for i in range(10)] # string manipulation example # AI-generated,code,generated,ai,string manipulation,13,73,GPT-4,python,5,False
+38,Write a news article about education,education has become increasingly important in today's world. The development of education technologies has accelerated over the past decade. Experts recommend focusing on education to improve overall outcomes. Experts recommend focusing on education to improve overall outcomes. Understanding education is crucial for professionals in this field. The development of education technologies has accelerated over the past decade. (AI-generated),text,generated,ai,education,58,442,Gemini,en,5,False
+39,Write a story about finance,finance has become increasingly important in today's world. Experts recommend focusing on finance to improve overall outcomes. The development of finance technologies has accelerated over the past decade. Understanding finance is crucial for professionals in this field. Understanding finance is crucial for professionals in this field. finance has become increasingly important in today's world. (AI-generated),text,generated,ai,finance,55,411,GPT-4,en,4,False
+40,Summarize recent developments in sports,sports has become increasingly important in today's world. Understanding sports is crucial for professionals in this field. Experts recommend focusing on sports to improve overall outcomes. Experts recommend focusing on sports to improve overall outcomes. (AI-generated),text,generated,ai,sports,36,270,GPT-4,en,5,False
+41,Write a graph traversal solution in cpp,"int graph_traversal() {
+    // TODO: implement graph traversal
+    return 0;
+}",code,github,human,graph traversal,11,78,,cpp,8,True
+42,Provide a graph traversal algorithm in python,"def graph_traversal():
+    # TODO: implement graph traversal
+    return None",code,news,human,graph traversal,9,76,,python,10,True
+43,Implement dynamic programming in cpp,"int dynamic_programming() {
+    // TODO: implement dynamic programming
+    return 0;
+}",code,github,human,dynamic programming,11,86,,cpp,2,True
+44,Provide a graph traversal algorithm in python,arr = [i for i in range(10)] # graph traversal example,code,news,human,graph traversal,11,54,,python,10,False
+45,Explain health in simple terms,Recent studies show that health can have significant impact on society. The development of health technologies has accelerated over the past decade. Recent studies show that health can have significant impact on society. health has become increasingly important in today's world. The development of health technologies has accelerated over the past decade.,text,github,human,health,52,356,,en,8,False
+46,Implement string manipulation in python,"def string_manipulation():
+    # TODO: implement string manipulation
+    return None # AI-generated",code,generated,ai,string manipulation,11,99,Gemini,python,2,True
+47,Explain finance in simple terms,Recent studies show that finance can have significant impact on society. finance has become increasingly important in today's world. Understanding finance is crucial for professionals in this field. Understanding finance is crucial for professionals in this field. (AI-generated),text,generated,ai,finance,38,279,GPT-4,en,8,False
+48,Write a blog post discussing education,education has become increasingly important in today's world. Experts recommend focusing on education to improve overall outcomes. Experts recommend focusing on education to improve overall outcomes. Experts recommend focusing on education to improve overall outcomes. Understanding education is crucial for professionals in this field.,text,blog,human,education,44,336,,en,9,False
+49,Write a story about finance,Experts recommend focusing on finance to improve overall outcomes. finance has become increasingly important in today's world. Experts recommend focusing on finance to improve overall outcomes. Recent studies show that finance can have significant impact on society. Experts recommend focusing on finance to improve overall outcomes. (AI-generated),text,generated,ai,finance,47,348,Gemini,en,8,False
+50,Explain tech in simple terms,Experts recommend focusing on tech to improve overall outcomes. tech has become increasingly important in today's world. Understanding tech is crucial for professionals in this field. (AI-generated),text,generated,ai,tech,27,198,Gemini,en,7,False
+51,Write a binary search solution in python,arr = [i for i in range(10)] # binary search example,code,news,human,binary search,11,52,,python,9,False
+52,Write a string manipulation solution in cpp,"int string_manipulation() {
+    // TODO: implement string manipulation
+    return 0;
+}",code,github,human,string manipulation,11,86,,cpp,9,True
+53,Write a string manipulation solution in python,"def string_manipulation():
+    # TODO: implement string manipulation
+    return None # AI-generated",code,generated,ai,string manipulation,11,99,Claude,python,9,True
+54,Write a news article about sports,The development of sports technologies has accelerated over the past decade. sports has become increasingly important in today's world. sports has become increasingly important in today's world. sports has become increasingly important in today's world. Recent studies show that sports can have significant impact on society. Recent studies show that sports can have significant impact on society.,text,blog,human,sports,57,397,,en,4,False
+55,Solve a sorting algorithm problem using cpp,"vector<int> arr; // sorting algorithm example
+for(int i=0;i<10;i++) arr.push_back(i); # AI-generated",code,generated,ai,sorting algorithm,11,100,Claude,cpp,1,True
+56,Write a blog post discussing sports,Recent studies show that sports can have significant impact on society. Recent studies show that sports can have significant impact on society. The development of sports technologies has accelerated over the past decade. Understanding sports is crucial for professionals in this field.,text,news,human,sports,42,285,,en,2,False
+57,Write a news article about politics,Experts recommend focusing on politics to improve overall outcomes. Experts recommend focusing on politics to improve overall outcomes. Understanding politics is crucial for professionals in this field. politics has become increasingly important in today's world.,text,news,human,politics,35,263,,en,4,False
+58,Implement dynamic programming in java,"public class dynamic_programming {
+    public static void main(String[] args) {
+        // implement dynamic programming
+    }
+}",code,news,human,dynamic programming,16,128,,java,3,True
+59,Write a blog post discussing health,The development of health technologies has accelerated over the past decade. Experts recommend focusing on health to improve overall outcomes. Recent studies show that health can have significant impact on society. health has become increasingly important in today's world. Recent studies show that health can have significant impact on society.,text,github,human,health,50,345,,en,1,False
+60,Explain tech in simple terms,Experts recommend focusing on tech to improve overall outcomes. Understanding tech is crucial for professionals in this field. Experts recommend focusing on tech to improve overall outcomes. tech has become increasingly important in today's world. Recent studies show that tech can have significant impact on society. Understanding tech is crucial for professionals in this field.,text,blog,human,tech,55,380,,en,10,False
+61,Write a story about politics,Understanding politics is crucial for professionals in this field. Recent studies show that politics can have significant impact on society. The development of politics technologies has accelerated over the past decade. Recent studies show that politics can have significant impact on society. The development of politics technologies has accelerated over the past decade. (AI-generated),text,generated,ai,politics,54,387,Gemini,en,6,False
+62,Provide a sorting algorithm algorithm in python,arr = [i for i in range(10)] # sorting algorithm example # AI-generated,code,generated,ai,sorting algorithm,13,71,Claude,python,2,False
+63,Write a dynamic programming solution in python,arr = [i for i in range(10)] # dynamic programming example,code,github,human,dynamic programming,11,58,,python,6,False
+64,Summarize recent developments in politics,Experts recommend focusing on politics to improve overall outcomes. Recent studies show that politics can have significant impact on society. The development of politics technologies has accelerated over the past decade.,text,news,human,politics,31,220,,en,8,False
+65,Write a story about politics,politics has become increasingly important in today's world. politics has become increasingly important in today's world. Understanding politics is crucial for professionals in this field. Experts recommend focusing on politics to improve overall outcomes. (AI-generated),text,generated,ai,politics,35,271,GPT-4,en,3,False
+66,Write a story about finance,Understanding finance is crucial for professionals in this field. Recent studies show that finance can have significant impact on society. Understanding finance is crucial for professionals in this field. finance has become increasingly important in today's world. Understanding finance is crucial for professionals in this field. finance has become increasingly important in today's world. (AI-generated),text,generated,ai,finance,55,405,Claude,en,7,False
+67,Explain sports in simple terms,The development of sports technologies has accelerated over the past decade. Experts recommend focusing on sports to improve overall outcomes. Experts recommend focusing on sports to improve overall outcomes. The development of sports technologies has accelerated over the past decade. The development of sports technologies has accelerated over the past decade. (AI-generated),text,generated,ai,sports,52,377,Gemini,en,10,False
+68,Write a story about finance,Experts recommend focusing on finance to improve overall outcomes. Experts recommend focusing on finance to improve overall outcomes. finance has become increasingly important in today's world. The development of finance technologies has accelerated over the past decade. (AI-generated),text,generated,ai,finance,38,286,Claude,en,4,False
+69,Provide a string manipulation algorithm in java,"public class string_manipulation {
+    public static void main(String[] args) {
+        // implement string manipulation
+    }
+}",code,news,human,string manipulation,16,128,,java,1,True
+70,Provide a dynamic programming algorithm in java,"public class dynamic_programming {
+    public static void main(String[] args) {
+        // implement dynamic programming
+    }
+} # AI-generated",code,generated,ai,dynamic programming,18,143,Gemini,java,10,True
+71,Provide a string manipulation algorithm in cpp,"int string_manipulation() {
+    // TODO: implement string manipulation
+    return 0;
+}",code,blog,human,string manipulation,11,86,,cpp,3,True
+72,Summarize recent developments in sports,sports has become increasingly important in today's world. The development of sports technologies has accelerated over the past decade. Recent studies show that sports can have significant impact on society. Understanding sports is crucial for professionals in this field. Recent studies show that sports can have significant impact on society.,text,github,human,sports,50,344,,en,3,False
+73,Write a dynamic programming solution in python,"def dynamic_programming():
+    # TODO: implement dynamic programming
+    return None # AI-generated",code,generated,ai,dynamic programming,11,99,Gemini,python,1,True
+74,Explain education in simple terms,education has become increasingly important in today's world. The development of education technologies has accelerated over the past decade. Understanding education is crucial for professionals in this field. Experts recommend focusing on education to improve overall outcomes. Experts recommend focusing on education to improve overall outcomes. The development of education technologies has accelerated over the past decade. (AI-generated),text,generated,ai,education,58,442,Gemini,en,8,False
+75,Write a story about finance,Experts recommend focusing on finance to improve overall outcomes. Understanding finance is crucial for professionals in this field. finance has become increasingly important in today's world. The development of finance technologies has accelerated over the past decade. finance has become increasingly important in today's world.,text,github,human,finance,45,330,,en,7,False
+76,Explain education in simple terms,The development of education technologies has accelerated over the past decade. Recent studies show that education can have significant impact on society. education has become increasingly important in today's world. education has become increasingly important in today's world. The development of education technologies has accelerated over the past decade.,text,news,human,education,49,358,,en,6,False
+77,Summarize recent developments in tech,tech has become increasingly important in today's world. Recent studies show that tech can have significant impact on society. tech has become increasingly important in today's world. Recent studies show that tech can have significant impact on society. The development of tech technologies has accelerated over the past decade. Understanding tech is crucial for professionals in this field.,text,blog,human,tech,58,391,,en,3,False
+78,Write a story about politics,Recent studies show that politics can have significant impact on society. politics has become increasingly important in today's world. politics has become increasingly important in today's world. Understanding politics is crucial for professionals in this field. Experts recommend focusing on politics to improve overall outcomes. (AI-generated),text,generated,ai,politics,46,345,Gemini,en,3,False
+79,Summarize recent developments in politics,Recent studies show that politics can have significant impact on society. Experts recommend focusing on politics to improve overall outcomes. Experts recommend focusing on politics to improve overall outcomes.,text,github,human,politics,29,209,,en,1,False
+80,Provide a dynamic programming algorithm in cpp,"int dynamic_programming() {
+    // TODO: implement dynamic programming
+    return 0;
+}",code,github,human,dynamic programming,11,86,,cpp,1,True
+81,Provide a binary search algorithm in cpp,"vector<int> arr; // binary search example
+for(int i=0;i<10;i++) arr.push_back(i);",code,github,human,binary search,9,81,,cpp,1,True
+82,Write a blog post discussing tech,tech has become increasingly important in today's world. Recent studies show that tech can have significant impact on society. tech has become increasingly important in today's world.,text,news,human,tech,27,183,,en,2,False
+83,Provide a binary search algorithm in python,arr = [i for i in range(10)] # binary search example # AI-generated,code,generated,ai,binary search,13,67,GPT-4,python,2,False
+84,Solve a dynamic programming problem using python,"def dynamic_programming():
+    # TODO: implement dynamic programming
+    return None",code,news,human,dynamic programming,9,84,,python,9,True
+85,Solve a dynamic programming problem using python,arr = [i for i in range(10)] # dynamic programming example # AI-generated,code,generated,ai,dynamic programming,13,73,Claude,python,1,False
+86,Explain tech in simple terms,Recent studies show that tech can have significant impact on society. Experts recommend focusing on tech to improve overall outcomes. Understanding tech is crucial for professionals in this field. The development of tech technologies has accelerated over the past decade. (AI-generated),text,generated,ai,tech,41,286,Gemini,en,1,False
+87,Solve a sorting algorithm problem using python,"def sorting_algorithm():
+    # TODO: implement sorting algorithm
+    return None # AI-generated",code,generated,ai,sorting algorithm,11,95,Claude,python,4,True
+88,Write a story about politics,politics has become increasingly important in today's world. The development of politics technologies has accelerated over the past decade. Understanding politics is crucial for professionals in this field. politics has become increasingly important in today's world. The development of politics technologies has accelerated over the past decade.,text,blog,human,politics,47,346,,en,8,False
+89,Provide a graph traversal algorithm in cpp,"int graph_traversal() {
+    // TODO: implement graph traversal
+    return 0;
+} # AI-generated",code,generated,ai,graph traversal,13,93,Claude,cpp,7,True
+90,Write a graph traversal solution in python,arr = [i for i in range(10)] # graph traversal example # AI-generated,code,generated,ai,graph traversal,13,69,GPT-4,python,2,False
+91,Explain tech in simple terms,Experts recommend focusing on tech to improve overall outcomes. tech has become increasingly important in today's world. Understanding tech is crucial for professionals in this field. Understanding tech is crucial for professionals in this field. (AI-generated),text,generated,ai,tech,36,261,Gemini,en,7,False
+92,Provide a graph traversal algorithm in java,"public class graph_traversal {
+    public static void main(String[] args) {
+        // implement graph traversal
+    }
+} # AI-generated",code,generated,ai,graph traversal,18,135,Gemini,java,2,True
+93,Write a news article about politics,Understanding politics is crucial for professionals in this field. Recent studies show that politics can have significant impact on society. Understanding politics is crucial for professionals in this field. Understanding politics is crucial for professionals in this field.,text,news,human,politics,38,274,,en,5,False
+94,Write a story about sports,Understanding sports is crucial for professionals in this field. The development of sports technologies has accelerated over the past decade. sports has become increasingly important in today's world. sports has become increasingly important in today's world. The development of sports technologies has accelerated over the past decade. Understanding sports is crucial for professionals in this field. (AI-generated),text,generated,ai,sports,57,416,Gemini,en,8,False
+95,Write a sorting algorithm solution in cpp,"vector<int> arr; // sorting algorithm example
+for(int i=0;i<10;i++) arr.push_back(i);",code,news,human,sorting algorithm,9,85,,cpp,2,True
+96,Provide a sorting algorithm algorithm in python,"def sorting_algorithm():
+    # TODO: implement sorting algorithm
+    return None",code,news,human,sorting algorithm,9,80,,python,7,True
+97,Solve a graph traversal problem using java,"public class graph_traversal {
+    public static void main(String[] args) {
+        // implement graph traversal
+    }
+} # AI-generated",code,generated,ai,graph traversal,18,135,GPT-4,java,8,True
+98,Write a story about education,Recent studies show that education can have significant impact on society. Understanding education is crucial for professionals in this field. education has become increasingly important in today's world. (AI-generated),text,generated,ai,education,29,219,Gemini,en,2,False
+99,Summarize recent developments in finance,The development of finance technologies has accelerated over the past decade. Experts recommend focusing on finance to improve overall outcomes. Understanding finance is crucial for professionals in this field. Experts recommend focusing on finance to improve overall outcomes. (AI-generated),text,generated,ai,finance,39,292,Claude,en,8,False
+100,Write a sorting algorithm solution in python,"def sorting_algorithm():
+    # TODO: implement sorting algorithm
+    return None # AI-generated",code,generated,ai,sorting algorithm,11,95,Claude,python,10,True
